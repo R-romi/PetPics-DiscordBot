@@ -1,0 +1,1 @@
+The projetc contains two different folders, one with a simple version python base version of the bot, and a complex Dockerized version in javascript connected to supabase
