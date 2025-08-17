@@ -1,0 +1,8 @@
+services:
+  js_bot:                           
+    build:                          
+      context: ./js_bot                 
+    env_file:                       
+      - ./.env
+    container_name: js-bot          
+    restart: unless-stopped 

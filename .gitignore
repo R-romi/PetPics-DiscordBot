@@ -1,0 +1,7 @@
+.env
+
+py_bot/discordbot
+py_bot/discord.log
+
+js_bot/node_modules
+js_bot/discordbotpp
